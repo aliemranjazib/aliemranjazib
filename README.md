@@ -51,14 +51,18 @@
 
 ---
 
-   <div align="center">
- 
-   [![Website Badge](https://img.shields.io/badge/-felipecastrosales.com-4361EE?style=flat&logo=Google-Chrome&logoColor=white&link=https://felipecastrosales.com/)](https://felipecastrosales.com/)
-   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-4361EE?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales)](https://www.linkedin.com/in/felipecastrosales) 
-   [![Gmail Badge](https://img.shields.io/badge/-soufeliposales@gmail.com-4361EE?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soufeliposales@gmail.com)](mailto:soufeliposales@gmail.com)
-   [![Stack OverFlow Badge](https://img.shields.io/badge/Stack_Overflow-4361EE?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/13096514/felipe-sales)](https://stackoverflow.com/users/13096514/felipe-sales)
- 
-   </div>
+<p align='center'>
+   <a href="https://www.linkedin.com/in/muhammad-imran-manzoor-214461a9/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/muhammad-imran-manzoor-214461a9/">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/ali.imran.jazib">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
    <div align="center">
 
