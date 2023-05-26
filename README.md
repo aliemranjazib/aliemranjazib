@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Felipe Sales</h1>
+<h1>Hi there, I'm Muhammad Imran Manzoor</h1>
 
 <h3>🤙 How are you? I hope you are well, welcome to my profile.</h3>
 
@@ -6,17 +6,13 @@
 
 <p>
 
-- 👨‍💻 Flutter Developer & Instructor focused on helping people go to the next level.
+- 👨‍💻 Senior Flutter Developer & Instructor focused on helping people go to the next level.
 
-- 🔭 I’m currently working at [SuaMusica](https://github.com/SuaMusica).
- 
-- 💬 Ask me about everything, I always enjoy helping people.
+- 🔭 I’m currently working at [Halo delivery]([https://github.com/SuaMusica](https://home.halo.express/)).
 
 - 👊 Driven by concrete goals and well-defined goals. I will make it happen.
 
-- 🔥 I like to play sports.
-
-- 🏆 "A Forja é diária.".
+- 🔥 I like Poetry.
  
 - 📄 Documenting the entire journey.
  
