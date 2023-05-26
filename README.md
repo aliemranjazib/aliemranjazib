@@ -34,7 +34,8 @@
  <a href="https://www.photoshop.com/en" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
             alt="photoshop" width="40" height="40" /> </a>
- 
+ <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"
+            height="40" /> </a>
  
  
  
